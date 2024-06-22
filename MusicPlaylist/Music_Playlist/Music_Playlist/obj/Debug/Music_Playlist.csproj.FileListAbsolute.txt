@@ -1,0 +1,12 @@
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\bin\Debug\Music_Playlist.exe.config
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\bin\Debug\Music_Playlist.exe
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\bin\Debug\Music_Playlist.pdb
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.Admin_Form.resources
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.Login_Form.resources
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.Music_Form.resources
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.Properties.Resources.resources
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.Register_Form.resources
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.csproj.GenerateResource.cache
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.exe
+C:\Users\Jomin\Documents\GitHub\music-playlist-csharp\Music_Playlist\Music_Playlist\obj\Debug\Music_Playlist.pdb
