@@ -1,0 +1,17 @@
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\bin\Debug\net7.0\RecipeManagement.DessertRecipe.deps.json
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\bin\Debug\net7.0\RecipeManagement.DessertRecipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\bin\Debug\net7.0\RecipeManagement.DessertRecipe.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\bin\Debug\net7.0\RecipeManagement.Ingredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\bin\Debug\net7.0\RecipeManagement.Recipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\bin\Debug\net7.0\RecipeManagement.Recipe.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\bin\Debug\net7.0\RecipeManagement.Ingredient.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\RecipeManagement.DessertRecipe.csproj.AssemblyReference.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\RecipeManagement.DessertRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\RecipeManagement.DessertRecipe.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\RecipeManagement.DessertRecipe.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\RecipeManagement.DessertRecipe.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\RecipeManagement.DessertRecipe.csproj.CopyComplete
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\RecipeManagement.DessertRecipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\refint\RecipeManagement.DessertRecipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\RecipeManagement.DessertRecipe.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.DessertRecipe\obj\Debug\net7.0\ref\RecipeManagement.DessertRecipe.dll

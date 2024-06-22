@@ -1,0 +1,11 @@
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\bin\Debug\net7.0\RecipeManagement.Ingredient.deps.json
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\bin\Debug\net7.0\RecipeManagement.Ingredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\bin\Debug\net7.0\RecipeManagement.Ingredient.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\obj\Debug\net7.0\RecipeManagement.Ingredient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\obj\Debug\net7.0\RecipeManagement.Ingredient.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\obj\Debug\net7.0\RecipeManagement.Ingredient.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\obj\Debug\net7.0\RecipeManagement.Ingredient.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\obj\Debug\net7.0\RecipeManagement.Ingredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\obj\Debug\net7.0\refint\RecipeManagement.Ingredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\obj\Debug\net7.0\RecipeManagement.Ingredient.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Ingredient\obj\Debug\net7.0\ref\RecipeManagement.Ingredient.dll

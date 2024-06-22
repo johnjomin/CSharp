@@ -1,0 +1,15 @@
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\bin\Debug\net7.0\RecipeManagement.FreshIngredient.deps.json
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\bin\Debug\net7.0\RecipeManagement.FreshIngredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\bin\Debug\net7.0\RecipeManagement.FreshIngredient.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\bin\Debug\net7.0\RecipeManagement.Ingredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\bin\Debug\net7.0\RecipeManagement.Ingredient.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\RecipeManagement.FreshIngredient.csproj.AssemblyReference.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\RecipeManagement.FreshIngredient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\RecipeManagement.FreshIngredient.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\RecipeManagement.FreshIngredient.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\RecipeManagement.FreshIngredient.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\RecipeManagement.FreshIngredient.csproj.CopyComplete
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\RecipeManagement.FreshIngredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\refint\RecipeManagement.FreshIngredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\RecipeManagement.FreshIngredient.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.FreshIngredient\obj\Debug\net7.0\ref\RecipeManagement.FreshIngredient.dll

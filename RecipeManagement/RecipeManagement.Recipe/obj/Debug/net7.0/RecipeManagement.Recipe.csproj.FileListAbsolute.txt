@@ -1,0 +1,15 @@
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\bin\Debug\net7.0\RecipeManagement.Recipe.deps.json
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\bin\Debug\net7.0\RecipeManagement.Recipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\bin\Debug\net7.0\RecipeManagement.Recipe.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\bin\Debug\net7.0\RecipeManagement.Ingredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\bin\Debug\net7.0\RecipeManagement.Ingredient.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\RecipeManagement.Recipe.csproj.AssemblyReference.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\RecipeManagement.Recipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\RecipeManagement.Recipe.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\RecipeManagement.Recipe.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\RecipeManagement.Recipe.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\RecipeManagement.Recipe.csproj.CopyComplete
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\RecipeManagement.Recipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\refint\RecipeManagement.Recipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\RecipeManagement.Recipe.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe\obj\Debug\net7.0\ref\RecipeManagement.Recipe.dll

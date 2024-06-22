@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "RecipeManagement.Ingredient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/RecipeManagement.Ingredient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RecipeManagement.Ingredient.dll": {}
+        }
+      },
+      "RecipeManagement.Recipe/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "RecipeManagement.Ingredient": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RecipeManagement.Recipe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RecipeManagement.Recipe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecipeManagement.Ingredient/1.0.0": {
+      "type": "project",
+      "path": "../RecipeManagement.Ingredient/RecipeManagement.Ingredient.csproj",
+      "msbuildProject": "../RecipeManagement.Ingredient/RecipeManagement.Ingredient.csproj"
+    },
+    "RecipeManagement.Recipe/1.0.0": {
+      "type": "project",
+      "path": "../RecipeManagement.Recipe/RecipeManagement.Recipe.csproj",
+      "msbuildProject": "../RecipeManagement.Recipe/RecipeManagement.Recipe.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "RecipeManagement.Recipe >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jomin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jomin\\RiderProjects\\RecipeManagement\\RecipeManagement.Recipe.IndianRecipe\\RecipeManagement.Recipe.IndianRecipe.csproj",
+      "projectName": "RecipeManagement.Recipe.IndianRecipe",
+      "projectPath": "C:\\Users\\Jomin\\RiderProjects\\RecipeManagement\\RecipeManagement.Recipe.IndianRecipe\\RecipeManagement.Recipe.IndianRecipe.csproj",
+      "packagesPath": "C:\\Users\\Jomin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jomin\\RiderProjects\\RecipeManagement\\RecipeManagement.Recipe.IndianRecipe\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Jomin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://hillsboro-baget.gvnewsdev.com/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Jomin\\RiderProjects\\RecipeManagement\\RecipeManagement.Recipe\\RecipeManagement.Recipe.csproj": {
+              "projectPath": "C:\\Users\\Jomin\\RiderProjects\\RecipeManagement\\RecipeManagement.Recipe\\RecipeManagement.Recipe.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

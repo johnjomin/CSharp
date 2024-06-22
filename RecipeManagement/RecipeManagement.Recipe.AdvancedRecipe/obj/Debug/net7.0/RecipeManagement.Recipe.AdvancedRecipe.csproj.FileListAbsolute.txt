@@ -1,0 +1,17 @@
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\bin\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.deps.json
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\bin\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\bin\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\bin\Debug\net7.0\RecipeManagement.Ingredient.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\bin\Debug\net7.0\RecipeManagement.Recipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\bin\Debug\net7.0\RecipeManagement.Recipe.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\bin\Debug\net7.0\RecipeManagement.Ingredient.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.csproj.AssemblyReference.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.csproj.CopyComplete
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\refint\RecipeManagement.Recipe.AdvancedRecipe.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\RecipeManagement.Recipe.AdvancedRecipe.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Recipe.AdvancedRecipe\obj\Debug\net7.0\ref\RecipeManagement.Recipe.AdvancedRecipe.dll
