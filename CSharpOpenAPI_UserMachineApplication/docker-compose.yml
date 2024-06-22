@@ -1,0 +1,16 @@
+version: '3'
+services:
+  mongodb:
+    image: mcr.microsoft.com/mssql/server:2017-latest-mcristinagrosu/streamsets_ubuntu
+    environment: 
+      ACCEPT_EUILA: "Y"
+      SA_PASSWORD: "Pa55word2019"
+      MSSQL_PID: Express
+    ports:
+      - "1433:1433"
+  colour-api:
+    build: .
+    environment: 
+      DBServer: "mongodb"
+    ports: 
+      - "8080:80"
