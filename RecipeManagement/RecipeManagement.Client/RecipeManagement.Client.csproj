@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>RecipeManagement</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\RecipeManagement.Recipe.DessertRecipe\RecipeManagement.Recipe.DessertRecipe.csproj"/>
+        <ProjectReference Include="..\RecipeManagement.RecipeManager\RecipeManagement.RecipeManager.csproj"/>
+        <ProjectReference Include="..\RecipeManagement.Recipe.AdvancedRecipe\RecipeManagement.Recipe.AdvancedRecipe.csproj"/>
+        <ProjectReference Include="..\RecipeManagement.Recipe\RecipeManagement.Recipe.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Compile Remove="test.cs"/>
+    </ItemGroup>
+
+</Project>

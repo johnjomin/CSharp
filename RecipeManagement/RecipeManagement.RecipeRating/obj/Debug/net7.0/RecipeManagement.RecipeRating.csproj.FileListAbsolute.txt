@@ -1,0 +1,11 @@
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\bin\Debug\net7.0\RecipeManagement.RecipeRating.deps.json
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\bin\Debug\net7.0\RecipeManagement.RecipeRating.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\bin\Debug\net7.0\RecipeManagement.RecipeRating.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\obj\Debug\net7.0\RecipeManagement.RecipeRating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\obj\Debug\net7.0\RecipeManagement.RecipeRating.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\obj\Debug\net7.0\RecipeManagement.RecipeRating.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\obj\Debug\net7.0\RecipeManagement.RecipeRating.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\obj\Debug\net7.0\RecipeManagement.RecipeRating.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\obj\Debug\net7.0\refint\RecipeManagement.RecipeRating.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\obj\Debug\net7.0\RecipeManagement.RecipeRating.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.RecipeRating\obj\Debug\net7.0\ref\RecipeManagement.RecipeRating.dll

@@ -1,0 +1,161 @@
+﻿using RecipeManagement.Ingredient.Implementations;
+using RecipeManagement.Kiosk.Implementations;
+using RecipeManagement.Recipe.AdvancedRecipe.Implementations;
+using RecipeManagement.Recipe.Implementations;
+
+var recipeManagement = new RecipeManager();
+
+while (true)
+{
+    Console.WriteLine("1. Add Recipe"); 
+    Console.WriteLine("2. Remove Recipe");
+    Console.WriteLine("3. Find Recipe by Name");
+    Console.WriteLine("4. Get All Recipes"); 
+    Console.WriteLine("5. Add Advanced Recipes"); 
+    Console.WriteLine("10. Exit"); 
+    
+    var recipesDirectory = @"..\..\..\RecipeManagement.Resources\Files";
+    while (!Directory.Exists(recipesDirectory))
+    {
+        try
+        {
+            Console.WriteLine("Recipes directory does not exist. Creating it now.");
+            Directory.CreateDirectory(recipesDirectory);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error creating recipes directory: {ex.Message}");
+        }
+    }
+    var option = Convert.ToInt32(Console.ReadLine());
+    try
+    {
+        switch (option)
+        {
+            case 1:
+                Console.WriteLine("Enter the recipe name:");
+                var recipeName = Console.ReadLine();
+
+                Console.WriteLine("Enter the ingredients (comma-separated): ");
+                var ingredientStrings = Console.ReadLine().Split(',');
+                var ingredients = new List<BaseIngredient>();
+                foreach (var ingredientString in ingredientStrings)
+                {
+                    var parts = ingredientString.Split(':');
+                    var ingredientNameTrimmed = parts[0].Trim();
+                    var ingredientQuantityTrimmed = parts[1].Trim();
+                    ingredients.Add(new BaseIngredient
+                    {
+                        Name = ingredientNameTrimmed
+                        , Quantity = ingredientQuantityTrimmed
+                    });
+                }
+
+                Console.WriteLine("Enter the instructions:");
+                var instructions = Console.ReadLine();
+
+                var recipe = new BaseRecipe
+                {
+                    Name = recipeName,
+                    Ingredients = ingredients,
+                    Instructions = instructions
+                };
+                recipeManagement.AddRecipe(recipe);
+                recipe.Save(Path.Combine(recipesDirectory, $"{recipe.Name}.recipe"));
+
+                Console.WriteLine($"Recipe '{recipe.Name}' added.");
+                break;
+            
+            case 2://jomin, how do you delete or remove after saving a recipe from file.
+                Console.WriteLine("Enter Recipe Name: ");
+                var name = Console.ReadLine();
+                var recipeToRemove = recipeManagement.FindRecipeByName(name);
+
+                if (recipeToRemove != null)
+                    recipeManagement.RemoveRecipe(recipeToRemove);
+                else
+                    Console.WriteLine("Recipe not found");
+                break;
+            
+            case 3:
+                Console.WriteLine("Enter Recipe Name: ");
+                var receipeName = Console.ReadLine();
+                var foundRecipe = recipeManagement.FindRecipeByName(receipeName);
+
+                recipeManagement.DisplayRecipeInstructions(foundRecipe);
+
+                if (foundRecipe != null)
+                    Console.WriteLine($"Recipe: {foundRecipe.Name}, Ingredients: {string.Join(", ", foundRecipe.Ingredients)}, Instructions: {foundRecipe.Instructions}");
+                else
+                    Console.WriteLine("Recipe not found");
+                break;
+            
+            case 4:
+                if (Directory.GetFiles(recipesDirectory, "*.recipe").Length == 0)
+                {
+                    Console.WriteLine("No recipes found.");
+                }
+                else
+                {
+                    Console.WriteLine("Recipes:");
+                    foreach (var filePath in Directory.GetFiles(recipesDirectory, "*.recipe"))
+                    {
+                        try
+                        {
+                            BaseRecipe recipeFromFile = BaseRecipe.Load(filePath);
+                            Console.WriteLine($"- {recipeFromFile.Name}");
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"Error loading recipe from file: {ex.Message}");
+                        }
+                    }
+                    var allRecipes = recipeManagement.GetAllRecipes();
+
+                    foreach (var recipes in allRecipes)
+                        Console.WriteLine($"Recipe: {recipes.Name}, Ingredients: {string.Join(", ", recipes.Ingredients)}, Instructions: {recipes.Instructions}");
+                }
+
+                break;
+            
+            case 5:
+                var advancedRecipe = new AdvancedRecipe
+                {
+                    Name = "Spaghetti Bolognese",
+                    Ingredients = new List<BaseIngredient>
+                    {
+                        new BaseIngredient { Name = "Spaghetti", Quantity = "200g" },
+                        new BaseIngredient { Name = "Minced beef", Quantity = "500g" },
+                        new BaseIngredient { Name = "Tomato passata", Quantity = "500ml" },
+                        new BaseIngredient { Name = "Garlic", Quantity = "2 cloves" },
+                        new BaseIngredient { Name = "Onion", Quantity = "1" },
+                        new BaseIngredient { Name = "Olive oil", Quantity = "2 tbsp" },
+                        new BaseIngredient { Name = "Salt", Quantity = "1 tsp" },
+                        new BaseIngredient { Name = "Black pepper", Quantity = "1/2 tsp" },
+                        new BaseIngredient { Name = "Basil", Quantity = "1/2 tsp" },
+                        new BaseIngredient { Name = "Bay leaf", Quantity = "1" },
+                    },
+                    Instructions = "1. Cook the minced beef in a pan with the olive oil until browned.\n2. Add the chopped onion and garlic and cook until softened.\n3. Add the tomato passata, salt, black pepper, basil, and bay leaf and simmer for 30 minutes.\n4. Cook the spaghetti in boiling water until al dente.\n5. Serve the spaghetti with the sauce and grated Parmesan cheese.",
+                    Category = "Pasta",
+                    Cuisine = "Italian"
+                };
+
+                //advancedRecipe.Update("Name", "Spaghetti Bolognese with Meatballs");
+                //advancedRecipe.Update("Instructions", "1. Preheat the oven to 200°C (180°C fan) mark 6.\n2. Cook the minced beef in a pan with the olive oil until browned.\n3. Add the chopped onion and garlic and cook until softened.\n4. Mix in the breadcrumbs, egg, and parmesan cheese and shape into meatballs.\n5. Add the meatballs to the pan and cook until browned.\n6. Add the tomato passata, salt, black pepper, basil, and bay leaf and simmer for 30 minutes.\n7. Cook the spaghetti in boiling water until al dente.\n8. Serve the spaghetti with the meatballs and sauce, and grated Parmesan cheese.");
+                break;
+            
+            case 10:
+                Console.WriteLine("Quitting.");
+                //Environment.Exit(0);
+                return;
+            
+            default:
+                Console.WriteLine("Invalid option. \nPlease try again.");
+                break;
+        }
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Error: {ex.Message}");
+    }
+}

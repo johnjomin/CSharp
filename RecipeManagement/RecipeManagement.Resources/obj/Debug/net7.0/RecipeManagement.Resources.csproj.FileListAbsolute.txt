@@ -1,0 +1,11 @@
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\bin\Debug\net7.0\RecipeManagement.Resources.deps.json
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\bin\Debug\net7.0\RecipeManagement.Resources.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\bin\Debug\net7.0\RecipeManagement.Resources.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\obj\Debug\net7.0\RecipeManagement.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\obj\Debug\net7.0\RecipeManagement.Resources.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\obj\Debug\net7.0\RecipeManagement.Resources.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\obj\Debug\net7.0\RecipeManagement.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\obj\Debug\net7.0\RecipeManagement.Resources.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\obj\Debug\net7.0\refint\RecipeManagement.Resources.dll
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\obj\Debug\net7.0\RecipeManagement.Resources.pdb
+C:\Users\Jomin\RiderProjects\RecipeManagement\RecipeManagement.Resources\obj\Debug\net7.0\ref\RecipeManagement.Resources.dll
