@@ -1,0 +1,9 @@
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\bin\Debug\netstandard2.1\AnimalAppointmentVetSystem.deps.json
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\bin\Debug\netstandard2.1\AnimalAppointmentVetSystem.dll
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\bin\Debug\netstandard2.1\AnimalAppointmentVetSystem.pdb
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\obj\Debug\netstandard2.1\AnimalAppointmentVetSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\obj\Debug\netstandard2.1\AnimalAppointmentVetSystem.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\obj\Debug\netstandard2.1\AnimalAppointmentVetSystem.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\obj\Debug\netstandard2.1\AnimalAppointmentVetSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\obj\Debug\netstandard2.1\AnimalAppointmentVetSystem.dll
+C:\Users\Jomin\RiderProjects\VetSystemsTask\AnimalAppointmentVetSystem\obj\Debug\netstandard2.1\AnimalAppointmentVetSystem.pdb

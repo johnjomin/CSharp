@@ -1,0 +1,9 @@
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\obj\Debug\netstandard2.1\VetSystemsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\obj\Debug\netstandard2.1\VetSystemsTask.AssemblyInfoInputs.cache
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\obj\Debug\netstandard2.1\VetSystemsTask.AssemblyInfo.cs
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\obj\Debug\netstandard2.1\VetSystemsTask.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\bin\Debug\netstandard2.1\VetSystemsTask.deps.json
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\bin\Debug\netstandard2.1\VetSystemsTask.dll
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\bin\Debug\netstandard2.1\VetSystemsTask.pdb
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\obj\Debug\netstandard2.1\VetSystemsTask.dll
+C:\Users\Jomin\RiderProjects\VetSystemsTask\VetSystemsTask\obj\Debug\netstandard2.1\VetSystemsTask.pdb
