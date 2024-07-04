@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jomin\\RiderProjects\\VetSystemsTask\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem.csproj": {}
+    "C:\\Users\\Jomin\\Desktop\\Programming Projects\\CSharp\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jomin\\RiderProjects\\VetSystemsTask\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem.csproj": {
+    "C:\\Users\\Jomin\\Desktop\\Programming Projects\\CSharp\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jomin\\RiderProjects\\VetSystemsTask\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Jomin\\Desktop\\Programming Projects\\CSharp\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem.csproj",
         "projectName": "AnimalAppointmentVetSystem",
-        "projectPath": "C:\\Users\\Jomin\\RiderProjects\\VetSystemsTask\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem.csproj",
+        "projectPath": "C:\\Users\\Jomin\\Desktop\\Programming Projects\\CSharp\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem.csproj",
         "packagesPath": "C:\\Users\\Jomin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jomin\\RiderProjects\\VetSystemsTask\\AnimalAppointmentVetSystem\\obj\\",
+        "outputPath": "C:\\Users\\Jomin\\Desktop\\Programming Projects\\CSharp\\AnimalAppointmentVetSystem\\AnimalAppointmentVetSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

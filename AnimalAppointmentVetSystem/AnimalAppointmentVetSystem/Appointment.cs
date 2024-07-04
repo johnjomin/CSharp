@@ -8,5 +8,7 @@
         public string AnimalType { get; set; }
         public DateTime AppointmentTime { get; set; }
         public int Duration { get; set; }
+        public bool IsMember { get; set; }
+        public int Cost { get; set; }
     }
 }
