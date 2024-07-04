@@ -33,6 +33,11 @@ public class Schedule
         appointments.Add(appointment);
     }
 
+    public List<Appointment> GetAppointments()
+    {
+        return appointments;
+    }
+
     public void PrintAppointments()
     {
         foreach (var appointment in appointments)
